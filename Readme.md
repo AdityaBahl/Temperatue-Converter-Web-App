@@ -6,4 +6,4 @@ Converts Temperature simultaneously as the input is being given, input can be gi
 Really Helpful for people who struggle or are prone to make errors while converting temperatures.
 Healthcare industries may benefit from the instantaneous nature of the App.
 
-View it here - https://adityabahl.github.io/Counter-App/
+View it here - https://adityabahl.github.io/Temperatue-Converter-Web-App/
